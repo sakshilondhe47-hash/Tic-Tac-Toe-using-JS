@@ -48,7 +48,8 @@ tic-tac-toe/
 
 ## 📸 Screenshot
 
-"C:\Users\Sakshi\OneDrive\Pictures\Screenshots\Screenshot 2026-04-21 191138.png"
+<img width="1624" height="812" alt="Screenshot 2026-04-21 191138" src="https://github.com/user-attachments/assets/cd45417d-5a6f-47c6-93be-79d8aec8551c" />
+
 
 ---
 
@@ -65,9 +66,6 @@ tic-tac-toe/
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this repository and contribute by submitting a pull request.
 
 ---
 
