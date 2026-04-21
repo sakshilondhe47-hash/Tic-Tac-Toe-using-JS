@@ -55,7 +55,7 @@ tic-tac-toe/
 
 
 
----
+
 
 ## 📌 Future Improvements
 
@@ -67,11 +67,10 @@ tic-tac-toe/
 ---
 
 
----
 
 
 
----
+
 
 ## 🙌 Acknowledgment
 
